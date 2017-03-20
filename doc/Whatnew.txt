@@ -1,0 +1,23 @@
+20150918 :  Adopted STM32F3xx_HAL_DriverV1.1.1.
+            Adopted CMSIS V4.20.
+
+20150111 :  Added buffered UART information(see uart_support.c,h).
+
+20141129 :	Adopted STM32F3xx_HAL_DriverV1.1.0.
+
+20141017 :	Adopted CMSIS V4.00.
+
+20140719 :	Changed into STM32F3xx_HAL_Driver.
+
+20140214 :	Adopted Launchpad GCC-ARM(GCC4.8.3).
+             -> Added "-mslow-flash-data" option for armv7-m architecture.
+
+20130710 :	Added New GCC Compiler(bleeding-edge-toolchain).
+			Added Semihosting Build-Option(but restricted use).
+
+20130510 :	Adopted CMSIS3.20.
+			Add UART1 Example.
+
+20130108 :	Adopted Launchpad GCC-ARM(GCC4.7.3) with nano-newlib.
+
+20130103 :	Start Here.
